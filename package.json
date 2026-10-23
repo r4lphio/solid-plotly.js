@@ -7,11 +7,11 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ralphsmith80/solid-plotly.js.git"
+    "url": "git+https://github.com/r4lphio/solid-plotly.js.git"
   },
-  "homepage": "https://github.com/ralphsmith80/solid-plotly.js#readme",
+  "homepage": "https://github.com/r4lphio/solid-plotly.js#readme",
   "bugs": {
-    "url": "https://github.com/ralphsmith80/solid-plotly.js/issues"
+    "url": "https://github.com/r4lphio/solid-plotly.js/issues"
   },
   "scripts": {
     "dev": "pnpm -r run dev",
